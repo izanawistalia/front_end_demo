@@ -1,0 +1,25 @@
+
+
+.container li {
+    list-style-type: none;
+    float: left;
+    margin: 10px;
+}
+
+.container a {
+    display: block;
+    padding: 9px;
+    background-color: purple;
+}
+
+#one {
+    margin-left: 750px;
+}
+
+.container {
+    background-color: blueviolet;
+    width: 100%;
+}
+
+
+
